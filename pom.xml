@@ -1149,6 +1149,7 @@
         <!-- Misc -->
         <!-- TODO: remove after refactor with ndatasource <carbon.datasource.version>4.2.0</carbon.datasource.version>-->
         <carbon.caching.version>4.2.0</carbon.caching.version>
+        <analytics.shared.version>1.0.2-SNAPSHOT</analytics.shared.version>
         <esotericsoftware.kryo.version>3.0.3</esotericsoftware.kryo.version>
         <carbon.rm.version>4.2.0</carbon.rm.version>
         <log4j.version>1.2.13</log4j.version>
